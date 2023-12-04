@@ -1,0 +1,32 @@
+ion-item{
+    border-radius: 10px;
+    margin-bottom: 16px;
+}
+
+.header{
+    margin-top:100px;
+    margin-bottom:80px;
+    text-align: center;
+    .subtitle{
+        color: gray;
+        font-size: 0.9rem;
+    }
+    .title{
+        font-size: 2rem;
+    }
+}
+
+.signup{
+    display: flex;
+    justify-content: flex-end;
+    margin:auto;
+    flex-direction: row;
+    align-content: center;
+    position: absolute;
+
+}
+
+.forgotPassword{
+    display: flex;
+
+}
